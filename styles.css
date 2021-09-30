@@ -57,3 +57,32 @@ table, th, td {
 caption{
     color:black;
 }
+
+.list-non-bullet{
+    list-style: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+.footer{
+    background-color: black;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    margin-top: 4rem;
+}
+
+.footer .links{
+    color:white;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+}
+
+.social {
+    font-size: 4rem;
+}
